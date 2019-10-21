@@ -5,17 +5,13 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I'm a frontend web developer based in London and this blog is me teaching myself JavaScript from the ground up. Enjoy!👇 
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+        I wasn't always a web developer, I started my professional life as a chemical engineer working in oil and gas. Long story short, I made the switch in early 2019 and haven't looked back since. I started out working as a front-end developer in a WordPress agency and have since transitioned to focusing on React and JavaScript. 
     actions:
       - label: Contact Me
         url: /contact
