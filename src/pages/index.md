@@ -11,7 +11,7 @@ sections:
     type: contentblock
     title: About
     content: >-
-        I wasn't always a web developer, I started my professional life as a chemical engineer working in oil and gas. Long story short, I made the switch in early 2019 and haven't looked back since. I started out working as a front-end developer in a WordPress agency and have since transitioned to focusing on React and JavaScript. 
+        I wasn't always a web developer, I started my professional life as a chemical engineer working in oil and gas. Long story short, I made the switch in early 2019 and haven't looked back since. I started out working as a front-end developer in a WordPress agency and have since transitioned to focusing on React and JavaScript.
     actions:
       - label: Contact Me
         url: /contact

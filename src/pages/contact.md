@@ -7,4 +7,4 @@ menus:
 template: contact
 ---
 
-To get in touch fill the form below.
+Feel free to get in touch! I'll do my best to get back to you as soon as I can.
