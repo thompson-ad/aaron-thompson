@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Aaron Thompson`,
     author: {
-      name: `Aaron Thompson`,
-      summary: `who lives and works in London building useful things.`,
+      name: `Aaron`,
+      summary: `I wasn't always a web developer, I started my professional life as a chemical engineer working in oil and gas. Long story short, I made the switch in early 2019 and haven't looked back since. I started out working as a frontend developer in a WordPress agency and have since transitioned to focusing on product development with React and JavaScript.`,
     },
     description: `Aaron Thompson's blog.`,
     siteUrl: `https://www.aaron-thompson.dev/`,
